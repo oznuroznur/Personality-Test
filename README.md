@@ -1,2 +1,2 @@
 # Personality-Test
-I actually aim to make a Myers-Briggs personality test website.
+This projects aims to make a Myers-Briggs personality test website.
